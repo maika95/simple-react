@@ -1,5 +1,6 @@
-"categoriesList" : [
 {
+"categoriesList" : [
+	{
 	   "id": "41",
 	   "name": "Category 1",
 	   tutorials = [
@@ -38,3 +39,4 @@
 	}
 }
 ]
+}
