@@ -27,11 +27,11 @@
 			"subcategories" : [
 				{
 				  "id": "1231",
-				  "name": "SubCategory",
+				  "name": "Bonus",
 				  "tutorials": [
 					{
 					 "id": "12313",
-					 "name": "Sub tutorial"
+					 "name": "Extra tutorial"
 					}
 				  ]
 				}
