@@ -2,12 +2,8 @@
 "categoriesList" : [
 		{
 		   "id": "41",
-		   "name": "Category 1",
+		   "name": "Getting Started",
 		   "tutorials" : [
-				{
-				  "id": "0",
-				  "name": "Getting Started",
-				  "tutorials": [
 					{
 					 "id": "8383",
 					 "name": "Primer tutorial"
@@ -16,14 +12,7 @@
 					 "id": "12312",
 					 "name": "Segundo tutorial"
 					}
-				  ]
-				}, 
-				{
-				  "id": "1",
-				  "name": "Second Category",
-				  "tutorials": []
-				}   
-			],
+				],
 			"subcategories" : [
 				{
 				  "id": "1231",
@@ -35,6 +24,18 @@
 					}
 				  ]
 				}
+			]
+		},
+		{
+		   "id": "66",
+		   "name": "Hardcore",
+		   "tutorials" : [
+		   			{
+					 "id": "98",
+					 "name": "This tutorial never ends"
+					}
+			],
+			"subcategories" : [
 			]
 		}
 	]
